@@ -88,7 +88,15 @@
   ],
   "basemap_type": "xyz_tile",
   "basemap_url": "https://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}",
-  "overlays": [],
+  "overlays": [
+    {
+      "label": "60% Design (2025)",
+      "url": "https://tiles.arcgis.com/tiles/buuvDFFARQiOEbVZ/arcgis/rest/services/CC_60pctDesignWalkthrough_PlanSheetC/MapServer/tile/{z}/{y}/{x}",
+      "opacity": 0.7,
+      "default_on": false,
+      "type": "tile"
+    }
+  ],
   "forward_label": "Forward",
   "backward_label": "Back"
 }
