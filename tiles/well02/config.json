@@ -1,13 +1,13 @@
 {
   "mode": "single",
   "format": "raw",
-  "yaw_1": 0.0,
-  "pitch_1": 0.0,
+  "yaw_1": -0.5664994492166269,
+  "pitch_1": 0.5256592513015406,
   "yaw_2": 0.0,
   "pitch_2": 0.0,
   "lat": 47.230577740017,
   "lng": -122.38840206996352,
-  "label_1": "Well02_IMG_20260924_100223_00_005 (2026/09/24)",
+  "label_1": "Well02 (2026/09/24)",
   "label_2": "",
   "autorotate": false,
   "hotspots_1": [
@@ -20,7 +20,7 @@
       "category": "note",
       "pin_style": "label_always",
       "images": [
-        "tiles/well02_img_20260924_100223_00_005/hotspot_images/1790715014353.png"
+        "tiles/well02/hotspot_images/1790728326609.png"
       ]
     },
     {
@@ -32,7 +32,7 @@
       "category": "note",
       "pin_style": "label_always",
       "images": [
-        "tiles/well02_img_20260924_100223_00_005/hotspot_images/1790714995263.png"
+        "tiles/well02/hotspot_images/1790728337001.png"
       ]
     }
   ],

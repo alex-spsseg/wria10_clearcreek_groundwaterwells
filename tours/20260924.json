@@ -2,85 +2,85 @@
   "name": "Clear Creek Groundwater Well Locations",
   "sites": [
     {
-      "site_id": "well01_img_20260924_115831_00_010",
+      "site_id": "well01",
       "display_name": "Well-01",
       "lat": 47.23396648999829,
       "lng": -122.39129416995284
     },
     {
-      "site_id": "well02_img_20260924_100223_00_005",
+      "site_id": "well02",
       "display_name": "Well-02 & Well-20",
       "lat": 47.230577740017,
       "lng": -122.38840206996352
     },
     {
-      "site_id": "well03_img_20260924_095123_00_004",
+      "site_id": "well03",
       "display_name": "Well-03",
       "lat": 47.23243434985176,
       "lng": -122.3868289600024
     },
     {
-      "site_id": "well06_img_20260924_133330_00_015",
+      "site_id": "well06",
       "display_name": "Well-06",
       "lat": 47.22184404999525,
       "lng": -122.37890897000342
     },
     {
-      "site_id": "well08_img_20260924_103722_00_006",
+      "site_id": "well08",
       "display_name": "Well-08",
       "lat": 47.22483630006357,
       "lng": -122.36899226998491
     },
     {
-      "site_id": "well09_img_20260924_131404_00_014",
+      "site_id": "well09",
       "display_name": "Well-09",
       "lat": 47.220128039991415,
       "lng": -122.37512679999999
     },
     {
-      "site_id": "well10_img_20260924_124805_00_013",
+      "site_id": "well10",
       "display_name": "Well-10",
       "lat": 47.2161905100493,
       "lng": -122.36750632999808
     },
     {
-      "site_id": "well11_img_20260924_121757_00_011",
+      "site_id": "well11",
       "display_name": "Well-11",
       "lat": 47.21830016999694,
       "lng": -122.36577361995754
     },
     {
-      "site_id": "well12_img_20260924_123837_00_012",
+      "site_id": "well12",
       "display_name": "Well-12",
       "lat": 47.21473665998473,
       "lng": -122.36534445995193
     },
     {
-      "site_id": "well14_img_20260924_140654_00_017",
+      "site_id": "well14",
       "display_name": "Well-14",
       "lat": 47.21724261999844,
       "lng": -122.35949591002044
     },
     {
-      "site_id": "well16_img_20260924_110026_00_008",
+      "site_id": "well16",
       "display_name": "Well-16",
       "lat": 47.22191399000714,
       "lng": -122.37196616999994
     },
     {
-      "site_id": "well17_img_20260924_141102_00_018",
+      "site_id": "well17",
       "display_name": "Well-17",
       "lat": 47.2205791599747,
       "lng": -122.36160949001051
     },
     {
-      "site_id": "well19_img_20260924_112315_00_009",
+      "site_id": "well19",
       "display_name": "Well-19",
       "lat": 47.22909763998149,
       "lng": -122.38449543998887
     },
     {
-      "site_id": "nancysditch_img_20260924_134123_00_016",
+      "site_id": "nancysditch",
       "display_name": "Nancy's Ditch Crossing",
       "lat": 47.220790479998364,
       "lng": -122.37632408995616
