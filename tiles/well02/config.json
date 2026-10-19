@@ -45,5 +45,7 @@
   "mobile_1": 5000,
   "mobile_2": 0,
   "heading_offset": null,
-  "overlays": []
+  "overlays": [],
+  "alt_checked": true,
+  "alt": -0.0
 }
